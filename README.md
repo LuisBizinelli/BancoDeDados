@@ -1,2 +1,7 @@
 # BancoDeDados
-Banco de dados - DIO (Digital Inovation One)
+# database - DIO (Digital Inovation One)
+
+
+
+## In this repository, database modeling and configuration will be carried out with general commands
+
